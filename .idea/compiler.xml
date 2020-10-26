@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JMS-P2P-Producer01" />
+        <module name="JMS-TopicConsumer02" />
+        <module name="JMS-TopicConsumer01" />
+        <module name="JMS-P2P-Consumer02" />
+        <module name="JMS-P2P-Consumer01" />
+        <module name="JMS-TopicProducer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
